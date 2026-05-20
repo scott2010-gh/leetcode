@@ -3,8 +3,6 @@ class Solution:
         self.c = []
     def return_same(self,l1,l2):
         ans = 0
-        l1.sort()
-        l2.sort()
         for a in l1:
             if a in l2:
                 ans+=1
