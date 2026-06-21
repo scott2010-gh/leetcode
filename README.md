@@ -17,4 +17,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/scott2010-gh/leetcode/tree/master/0389-find-the-difference) |
+| [1833-maximum-ice-cream-bars](https://github.com/scott2010-gh/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Array
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/scott2010-gh/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Greedy
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/scott2010-gh/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/scott2010-gh/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
