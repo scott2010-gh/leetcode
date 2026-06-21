@@ -5,14 +5,15 @@ class Solution:
         co.sort()
         using=co[0]
         coi = coins
-        
-        while len(co)>=1:
+        ind = 0
+        while len(co)-ind>=1:
             if coi-using>=0:
                 coi-=using
                 ans+=1
-            co.pop(0)
-            if len(co)==0:
+            if len(co)-ind==1:
                 return ans
             else:
-                using = co[0]
+                ind+=1
+                using = co[ind]
+            length = len(co)-ind
         return ans
