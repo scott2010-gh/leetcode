@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/scott2010-gh/leetcode/tree/master/0389-find-the-difference) |
+| [1189-maximum-number-of-balloons](https://github.com/scott2010-gh/leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/scott2010-gh/leetcode/tree/master/0389-find-the-difference) |
+| [1189-maximum-number-of-balloons](https://github.com/scott2010-gh/leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -29,5 +31,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/scott2010-gh/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/scott2010-gh/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
