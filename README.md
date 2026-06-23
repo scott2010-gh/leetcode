@@ -33,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/scott2010-gh/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/scott2010-gh/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/scott2010-gh/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/scott2010-gh/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->
